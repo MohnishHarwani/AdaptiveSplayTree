@@ -1,0 +1,15 @@
+Consolidate compiler generated dependencies of target project3
+[ 10%] Building CXX object CMakeFiles/project3.dir/src/adaptive_hash_map_app.cpp.o
+[ 20%] Building CXX object CMakeFiles/project3.dir/src/splay_tree_app.cpp.o
+[ 30%] Linking CXX static library libproject3.a
+[ 40%] Built target project3
+Consolidate compiler generated dependencies of target hash_map_app
+[ 50%] Building CXX object CMakeFiles/hash_map_app.dir/src/hash_map_app.cpp.o
+[ 60%] Linking CXX executable hash_map_app
+[ 60%] Built target hash_map_app
+[ 70%] Building CXX object CMakeFiles/splay_tree_app.dir/src/splay_tree_app.cpp.o
+[ 80%] Linking CXX executable splay_tree_app
+[ 80%] Built target splay_tree_app
+[ 90%] Building CXX object CMakeFiles/adaptive_hash_map_app.dir/src/adaptive_hash_map_app.cpp.o
+[100%] Linking CXX executable adaptive_hash_map_app
+[100%] Built target adaptive_hash_map_app

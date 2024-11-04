@@ -1,0 +1,11 @@
+insert YEb2I2G LsPQ
+minimum_key
+YEb2I2G
+insert as1QM2 QuskcL
+peek as1QM2
+QuskcL
+peek as1QM2
+QuskcL
+extract YEb2I2G
+LsPQ
+extract as1QM2

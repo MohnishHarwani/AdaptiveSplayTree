@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/splay_tree_app.dir/src/splay_tree_app.cpp.o -o splay_tree_app  libproject3.a 
